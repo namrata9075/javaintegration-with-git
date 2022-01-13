@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D06F-DD7D
+
+ Directory of C:\Users\goura\Desktop\JavaProject
+
+13-01-2022  17:55    <DIR>          .
+13-01-2022  17:55    <DIR>          ..
+13-01-2022  17:55                 0 a.txt
+13-01-2022  17:54               470 Hello.class
+13-01-2022  16:42               149 Hello.java
+               3 File(s)            619 bytes
+               2 Dir(s)  865,501,495,296 bytes free
